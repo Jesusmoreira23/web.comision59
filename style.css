@@ -1,0 +1,14 @@
+body{
+    background-color: aquamarine;
+}
+article{
+    background-color: blueviolet;
+    border: darkgreen 4px ;
+    border-radius: 10px;
+    padding: 10px;
+
+}
+img{
+    width: 500px;
+    height: auto;
+}
